@@ -1,0 +1,6 @@
+Condition_ID,Condition_Name,Severity,Symptoms,Treatment,Risk_Group
+1,Diabetes,Chronic,"High blood sugar, frequent urination, excessive thirst","Insulin, lifestyle changes","Elderly, overweight, family history"
+2,Hypertension,Chronic,"High blood pressure, headaches, shortness of breath","Medications, lifestyle changes","Elderly, smokers, family history"
+3,Asthma,Chronic,"Wheezing, coughing, shortness of breath","Inhalers, medications","Children, individuals with allergies"
+4,Cancer,Acute,"Fatigue, weight loss, abnormal growths","Chemotherapy, radiation, surgery",All age groups depending on type
+5,COVID-19,Acute,"Fever, cough, difficulty breathing","Vaccination, antiviral medications","Elderly, immunocompromised individuals"
